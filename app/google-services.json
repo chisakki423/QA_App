@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810686400988",
+    "project_id": "qaapp-c805a",
+    "storage_bucket": "qaapp-c805a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810686400988:android:00136058154a7bb11b2719",
+        "android_client_info": {
+          "package_name": "jp.techacademy.chisaki.yoshioka.qa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810686400988-fdla38febgdi75619bfelp9akhbm2jhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDupQyX1rJda5mfIYovGaysDWDUZyTAxyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810686400988-fdla38febgdi75619bfelp9akhbm2jhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
